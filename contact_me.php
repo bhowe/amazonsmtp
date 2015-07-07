@@ -40,9 +40,9 @@ $mail->SMTPSecure = 'tls';
 //Whether to use SMTP authentication
 $mail->SMTPAuth = true;
 //Username to use for SMTP authentication
-$mail->Username = "AKIAILKIDRUCGKPA6GWQ";
+$mail->Username = "";
 //Password to use for SMTP authentication
-$mail->Password = "ArMkS6CyO6MQNHDMBuFq2+kORZK0vL17bcAdPasZwts3";
+$mail->Password = "";
 //Set who the message is to be sent from
 $mail->setFrom('info@wiseguystechnologies.com', 'Blake Howe');
 //Set an alternative reply-to address
