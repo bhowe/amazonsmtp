@@ -1,2 +1,2 @@
 # amazonsmtp
-Script that connects to amazon perfectly.
+Script that connects to amazon ses
